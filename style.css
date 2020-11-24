@@ -131,6 +131,18 @@ button {
     font-weight: 700;
 }
 
+.z-index {
+    z-index: 0;
+}
 
+.shadow {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, .3);
+    z-index: 1;
+}
 
 
